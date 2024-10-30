@@ -21,19 +21,22 @@
 ## Draft scénario
 
 Champions importants : [...]
-
+Les champions qui constituent la base de la draft sont surligner, les autres 
 
 ### Blueside
-Scénario parfait/de base : perso fort//persos qui accompagne le perso fort//adaptation 
+Scénario parfait/de base : perso fort // persos qui accompagne le perso fort // adaptation 
 
-scénario 1: Tahm kench // Azir, ADC // Kindred, SUPP
+scénario 1: Tahm kench // Azir, Ashe // Kindred, Thresh/Braum
+scénario 1 Enfant (TK ban): WW //
+ça peut être interessant de mettre Kindred en dernière rotation pour éviter de se faire counter et les counter s'ils ont des pick mélées.
 
+Win Condition: Azir et Kindred scale et détruise les teamfight  Pick-up avec ashe braum 
 
 ### Redside
-Scénario parfait/de base : bonne synergi/adaptation/adaptation 
+Scénario parfait/de base : bonne synergi // confort et adaptation // adaptation 
 
-scénario 1 : Vel koz, Skarner //  // warwick
+scénario 1 : Vel koz, Skarner // ADC, SUPP // Warwick
 
-Si en face la top lane est pick a coup sûr // on peut pick top en 2ème rotation et last pick un truc qui fait mal en dernier 
+Si en face la top lane est pick a coup sûr, on peut pick top en 2ème rotation et last pick un truc qui fait mal en dernier 
 
  
