@@ -27,7 +27,9 @@ Les champions qui constituent la base de la draft sont surligner, les autres
 Scénario parfait/de base : perso fort // persos qui accompagne le perso fort // adaptation 
 
 scénario 1: Tahm kench // Azir, Ashe // Kindred, Thresh/Braum
-scénario 1 Enfant (TK ban): WW //
+
+scénario 1 Enfant (TK ban): WW // [...]
+
 ça peut être interessant de mettre Kindred en dernière rotation pour éviter de se faire counter et les counter s'ils ont des pick mélées.
 
 Win Condition: 
