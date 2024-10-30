@@ -17,4 +17,23 @@
 * Thresh :
     * augmenter la précision pour lancer la lanterne de loin et sauver un allié -> alt Z/prédire la fuite 
 
+
+## Draft scénario
+
+Champions importants : [...]
+
+
+### Blueside
+Scénario parfait/de base : perso fort//persos qui accompagne le perso fort//adaptation 
+
+scénario 1: Tahm kench // Azir, ADC // Kindred, SUPP
+
+
+### Redside
+Scénario parfait/de base : bonne synergi/adaptation/adaptation 
+
+scénario 1 : Vel koz, Skarner //  // warwick
+
+Si en face la top lane est pick a coup sûr // on peut pick top en 2ème rotation et last pick un truc qui fait mal en dernier 
+
  
