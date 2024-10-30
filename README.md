@@ -30,13 +30,17 @@ scénario 1: Tahm kench // Azir, Ashe // Kindred, Thresh/Braum
 scénario 1 Enfant (TK ban): WW //
 ça peut être interessant de mettre Kindred en dernière rotation pour éviter de se faire counter et les counter s'ils ont des pick mélées.
 
-Win Condition: Azir et Kindred scale et détruise les teamfight  Pick-up avec ashe braum 
+Win Condition: 
+* Azir et Kindred scale et détruisent les teamfight surtout si on réceptionne et donc si on a la position
+* Pick-up avec ashe braum 
 
 ### Redside
 Scénario parfait/de base : bonne synergi // confort et adaptation // adaptation 
 
 scénario 1 : Vel koz, Skarner // ADC, SUPP // Warwick
 
-Si en face la top lane est pick a coup sûr, on peut pick top en 2ème rotation et last pick un truc qui fait mal en dernier 
+Si en face la top lane est pick a coup sûr, on peut pick top en 2ème rotation et last pick un truc qui fait mal en dernier (ex: malphite si bcp d'AD ou Zilean si full assassin)
+
+
 
  
