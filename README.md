@@ -44,7 +44,7 @@ scénario 1 : Vel koz, Skarner // ADC, SUPP // Warwick
 Si en face la top lane est pick a coup sûr, on peut pick top en 2ème rotation et last pick un truc qui fait mal en dernier (ex: malphite si bcp d'AD ou Zilean si full assassin)
 
 ### 05/11/24
-Draft: Yone // Séraphine , Hwei // Xin , Poppy 
+Draft: **Yone // Séraphine , Hwei** // Xin , Poppy 
 
 Note : 
 * on s'est fait contré par un smolder mid et diana engage fort sur hwei/séraphine 
