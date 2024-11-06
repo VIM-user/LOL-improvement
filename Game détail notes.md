@@ -12,7 +12,7 @@ Note :
    Point à améliorer de manière général en jungle (pas forcemment visible dans cette game): 
    * participer plus activement pour aider les laner autre que gank (accompagner le laner en difficulté pour qu'il crash la wave en sécurité pour back, quand il y a un freeze allié mettre de la pression pour punir l'opposant s'il s'approche et s'il y a un freeze ennemies le débloquer, shadow ton laner quand tu suspecte un gank et là paff ! un counter gank)
    * ça va avec -> réfléchir à l'état de la lane après gank 
-   * ping plus pour indiquer tes intentions et le plus tôt le mieux => permet aux laner de préparer le gank/dive : éviter de mourir avant, de n'avoir plus d'HP, de setup la wave comme il faut, etc.)
+   * ping plus pour indiquer tes intentions et le plus tôt le mieux => permet aux laner de préparer le gank/dive : éviter de mourir avant, de n'avoir plus d'HP, de setup la wave comme il faut, etc.) et puis c'est bien pour se coordonner aussi.
 
 
 
