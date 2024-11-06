@@ -66,8 +66,8 @@ Note :
 
 
 * Je ne comprend pas pourquoi le Xin de Luthor soit pick en priorité par rapport à sa Kindred ou son Skarner 
-* le pick Xin sorti du chapeau magique au dernier moment + pas de game récente
-* Pour aider Xin et Yone, un support qui roam/engage aurait été mieux mais on était assez bien botlane
+* le pick Xin sorti du chapeau magique à la dernière game + pas d'autre game récente  
+* Pour aider Xin et Yone, un support qui roam/engage aurait été mieux mais hwei déjà pick au support
 
 
  
