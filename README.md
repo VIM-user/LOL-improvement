@@ -52,10 +52,10 @@ Note :
 * Xin : trop de perte de temps -> doit privilégier son cycle de jungle avant d'effectuer une action, prend trop de risques (coups de tourelle, E sur les grubs avec 150hp, go in sur le Darius avec 150hp), détecter les lanes compliquées/facile à gank/dive : si que des lanes compliqués => une petite ward stratégique + back + cycle de jungle 
 
 
-Point à améliorer de manière général en jungle (pas forcemment visible dans cette game): 
-* participer plus activement pour aider les laner autre que gank (accompagner le laner en difficulté pour qu'il crash la wave en sécurité pour back, quand il y a un freeze allié mettre de la pression pour punir l'opposant s'il s'approche et s'il y a un freeze ennemies le débloquer, shadow ton laner quand tu suspecte un gank et là paff ! un counter gank)
-* ça va avec -> réfléchir à l'état de la lane après gank 
-* ping plus pour indiquer tes intentions et le plus tôt le mieux => permet aux laner de préparer le gank/dive : éviter de mourir avant, de n'avoir plus d'HP, de setup la wave comme il faut, etc.)
+   Point à améliorer de manière général en jungle (pas forcemment visible dans cette game): 
+   * participer plus activement pour aider les laner autre que gank (accompagner le laner en difficulté pour qu'il crash la wave en sécurité pour back, quand il y a un freeze allié mettre de la pression pour punir l'opposant s'il s'approche et s'il y a un freeze ennemies le débloquer, shadow ton laner quand tu suspecte un gank et là paff ! un counter gank)
+   * ça va avec -> réfléchir à l'état de la lane après gank 
+   * ping plus pour indiquer tes intentions et le plus tôt le mieux => permet aux laner de préparer le gank/dive : éviter de mourir avant, de n'avoir plus d'HP, de setup la wave comme il faut, etc.)
 
 
 
@@ -67,7 +67,7 @@ Point à améliorer de manière général en jungle (pas forcemment visible dans
 
 * Je ne comprend pas pourquoi le Xin de Luthor soit pick en priorité par rapport à sa Kindred ou son Skarner 
 * le pick Xin sorti du chapeau magique au dernier moment + pas de game récente
-* Pour aider Xin et Yone a faire des gank, un support qui roam/engage aurait été mieux mais on était bien botlane
+* Pour aider Xin et Yone, un support qui roam/engage aurait été mieux mais on était assez bien botlane
 
 
  
