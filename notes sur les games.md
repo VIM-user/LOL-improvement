@@ -19,7 +19,7 @@ Note :
 
 * Yone => jeu de jambe, éviter de push un matchup compliqué en early, peut être plus mechanique/précis pour préparer les gank (éviter la perte  d'hp avant, prendre en sandwich avec le jungler), demander au jungler d'améliorer l'état de ta lane (wave) si présent
 * Séraphine : 1 Facecheck qui coûte beaucoup après TP
-* Hwei : prendre fatigue, penser à ward surtout si le jungle (ici Diana) peut surprendre.
+* Hwei : prendre fatigue, penser à ward avant de push surtout si le jungler adverse (ici Diana) peut surprendre.
 
 
 * Je ne comprend pas pourquoi le Xin de Luthor soit pick en priorité par rapport à sa Kindred ou son Skarner 
