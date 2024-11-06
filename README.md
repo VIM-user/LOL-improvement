@@ -41,6 +41,19 @@ Scénario parfait/de base : bonne synergi // confort et adaptation // adaptation
 
 scénario 1 : Vel koz, Skarner // ADC, SUPP // Warwick
 
+### 05/11/24
+Draft: Yone // Séraphine , Hwei // Xin , Poppy 
+
+Note : 
+* on s'est fait contré par un smolder mid et diana engage fort sur hwei/séraphine (fatigue à prendre
+* Poppy : trop d'erreurs (non respect du grab de darius sous tourelle / greed pour push sous la tourelle ennemie, va chercher son bouclier tout le temps (trop prévisible, et pas rentable), perd des hp pour une wave qui viens vers soi, back non sécurisé (perte de tempo)
+* Xin : trop de perte de temps -> doit priviligier son cycle de jungle avant d'effectuer une action, prend trop de risques (coups de tourelle, E sur les grubs avec 150hp, go in sur le Darius avec 150hp), détecter les lanes compliquées à gank
+* Yone => jeu de jambe, éviter de push un matchup compliqué en early, peut être plus mechanique/précis pour préparer les gank (éviter la perte  d'hp avant, prendre en sandwich avec le jungler), demander au jungler d'améliorer l'état de ta lane (wave) si présent
+* Séraphine : 1 Facecheck qui coûte beaucoup après TP
+* Hwei : prendre fatigue, penser à ward surtout si le jungle (ici Diana) peut surprendre.
+
+* Je pense que le Xin de Luthor est moins bien que Kindred ou Skarner
+* Pour aider Xin et Yone a faire des gank, un support qui roam aurait été mieux mais on était bien botlane
 Si en face la top lane est pick a coup sûr, on peut pick top en 2ème rotation et last pick un truc qui fait mal en dernier (ex: malphite si bcp d'AD ou Zilean si full assassin)
 
 
