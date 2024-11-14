@@ -1,10 +1,10 @@
 # Personal Improvement
 ## Points d'amélioration Global :
 * prendre une potion rechargeable : botte + potion + pink = 525g :: good
-* maitriser le changement de caméra pour la jgl ou la mid lane(CTR ALT 2 et 3)
-* Tab plus souvent
+* maitriser le changement de caméra pour la jgl ou la mid lane(CTR ALT 3 et 4) => Persévérer => utiliser le majeur pour ctrl alt 3/4
+* Tab plus souvent => j'y pense plus , à continuer
 * Changer et essayer de bouger sa caméra avec Drag&Scroll dans les raccourcis (cf [video](https://www.youtube.com/watch?v=je12_XuL5ek&ab_channel=Tonirel)) ==> pas efficace
-* essayer logiciel de draft/d'analyse de gameplay 
+* essayer logiciel de draft/d'analyse de gameplay : Pro Comp en phase de test
 * être plus efficace sur les pings ==> Apprendre la roue des signaux
 
 <img src="https://support-leagueoflegends.riotgames.com/hc/article_attachments/21945887802643" width="200">
@@ -15,7 +15,8 @@
     * s'entrainer à ward Q spell
 * Thresh :
     * augmenter la précision pour lancer la lanterne de loin et sauver un allié -> alt Z/prédire la fuite 
-
+* Lulu :
+    * 
 
 ## Draft scénario
 
