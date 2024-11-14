@@ -1,7 +1,7 @@
 # LOL-improvement
 
 ### 05/11/24
-Draft: **Yone // Séraphine , Hwei** // Xin , Poppy 
+Draft Blueside : **Yone // Séraphine , Hwei** // Xin , Poppy 
 
 Note : 
 * on s'est fait contré par un smolder mid et diana engage fort sur hwei/séraphine 
@@ -26,5 +26,12 @@ Note :
 * le pick Xin sorti du chapeau magique à la dernière game + pas d'autre game récente  
 * Pour aider Xin et Yone, un support qui roam/engage aurait été mieux mais hwei déjà pick au support
 
+### Jour X
+Draft Blueside: **Yone // Lulu , Caitlyn** // Taliyah , Poppy   vs   Ornn, Lillia, Yasuo, Sivir, Nautilus
 
- 
+Note : 
+* Bon wombo combo
+* Caitlyn fort sur ce patch et toujours efficace avec lulu (déjà stomp une game avec ce combo, après dans cette game la sivir était dégueu)
+* Bonne synergie Yone/Lulu
+* Top diff mais pas de S+ et n'a pas réussi à cancel l'ultime de ornn (à vérifier auprès de la var)
+
