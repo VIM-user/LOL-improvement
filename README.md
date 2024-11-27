@@ -61,10 +61,9 @@ Note:
 
 * Cupcake:
   + s'éloigner le plus de Yone (seul source de menace) pour éviter de se prendre le Q3
-  + éviter de jouer aggro quand le support ennemi dé-ward + jungle ennemi bot
+  + éviter de jouer aggro quand le support ennemi dé-ward et jungle ennemi botside
 
 * Lux:
-  + la bot lane en face était caca
   + a trop forcé sur Senna 2 fois alors que la team pas au complet et Yone ou Mord en face
 
 * Team: faire un back direct après Nashor(mais pas dans un bush potentiellement wardé)
