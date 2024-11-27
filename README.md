@@ -35,3 +35,25 @@ Note :
 * Bonne synergie Yone/Lulu
 * Top diff mais pas de S+ et n'a pas réussi à cancel l'ultime de ornn (à vérifier auprès de la var)
 
+### 26/11/2024
+Draft Blueside: **Caitlyn // Ornn, Lux** // Kindred, Kayle   vs   Morde, Sion(jgl), Yone, Vayne, Senna
+
+Note:
+* Kayle: s'améliorer dans le wave management(éviter de push dès le début dans un matchup compliqué, utiliser ses sorts pour last hit ==> si ça push vers toi :: sois content > pas besoin de perdre des PV inutilement) 
++ éviter les égo move (Flash-in Yone)
++ si flash+besoin d'escape = coller le mur
++ ult de Kayle ≠ ult Zilean ==> protège cupcake pour éviter qu'elle se prenne un gros burst de dégât de Yone 
++ bonne phase de kitting
++ bonne décision de Split push
+
+* Kindred: pas hésiter à ping, ça donne des informations plus précises sur la localisation. peut gagner plus de temps en backant plus rapidement : Sion aura à coût sûr le 2ème carapateur
++ si flash+besoin d'escape = coller le mur (Morde dive)
++ fail Herald
++ bons ult
++ game correcte
+
+* Ornn: penser à flash dans l'ult de Yone, éviter de push sans vision (je ne sais pas si tu avais une ward de dispo), mauvais call larve (pas de prio top + topside trop faible en early) + mauvais commit sur Senna (kindred Ornn pas de dégât early pour la OS et Ornn serai mort dans le processus)
+
+* Cupcake: s'éloigner le plus de Yone pour éviter de se prendre le Q3, éviter de jouer aggro quand le support dé-ward, bonne game
+
+* Lux: la bot l'âne en face était caca
