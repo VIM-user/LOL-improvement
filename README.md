@@ -59,11 +59,11 @@ Note:
    + mauvais call larve (pas de prio top + topside trop faible en early) + mauvais commit sur Senna (kindred Ornn pas de dégât early pour la OS et Ornn serai mort dans le processus)
 
 * Cupcake:
-  + s'éloigner le plus de Yone pour éviter de se prendre le Q3
+  + s'éloigner le plus de Yone (seul source de menace) pour éviter de se prendre le Q3
   + éviter de jouer aggro quand le support dé-ward
 
 * Lux:
   + la bot lane en face était caca
-  + a trop forcé sur Senna 2 fois alors que la team pas au complet + Yone en face
+  + a trop forcé sur Senna 2 fois alors que la team pas au complet et Yone ou Mord en face
 
 * Team: faire un back direct après Nashor(mais pas dans un bush potentiellement wardé)
