@@ -61,7 +61,7 @@ Note:
 
 * Cupcake:
   + s'éloigner le plus de Yone (seul source de menace) pour éviter de se prendre le Q3
-  + éviter de jouer aggro quand le support dé-ward
+  + éviter de jouer aggro quand le support ennemi dé-ward + jungle ennemi bot
 
 * Lux:
   + la bot lane en face était caca
