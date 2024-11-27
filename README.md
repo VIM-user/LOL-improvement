@@ -57,6 +57,7 @@ Note:
 * Ornn:
    + penser à flash dans l'ult de Yone, éviter de push sans vision (je ne sais pas si tu avais une ward de dispo)
    + mauvais call larve (pas de prio top + topside trop faible en early) + mauvais commit sur Senna (kindred Ornn pas de dégât early pour la OS et Ornn serai mort dans le processus)
+   + le pick a bien fonctionné
 
 * Cupcake:
   + s'éloigner le plus de Yone (seul source de menace) pour éviter de se prendre le Q3
