@@ -48,7 +48,7 @@ Note:
    + bonne décision de Split push
 
 * Kindred:
-   + pas hésiter à ping, ça donne des informations plus précises sur la localisation. peut gagner plus de temps en backant plus rapidement : Sion aura à coût sûr le 2ème carapateur
+   + peut être plus précis dans la comm ("Sion bot" -> "Sion au carap, sûrement aller bot" ou ping ennemi disparu au carap/ attention bot) 
    + si flash+besoin d'escape = coller le mur (Morde dive)
    + fail Herald
    + bons ult
