@@ -1,11 +1,11 @@
 # Personal Improvement
 ## Points d'amélioration Global :
 * prendre une potion rechargeable : botte + potion + pink = 525g :: good
-* maitriser le changement de caméra pour la jgl ou la mid lane(CTR ALT 3 et 4) => Persévérer => utiliser le majeur pour ctrl alt 3/4
-* Tab plus souvent => j'y pense plus , à continuer
-* Changer et essayer de bouger sa caméra avec Drag&Scroll dans les raccourcis (cf [video](https://www.youtube.com/watch?v=je12_XuL5ek&ab_channel=Tonirel)) ==> pas efficace
-* essayer logiciel de draft/d'analyse de gameplay : Pro Comp en phase de test
-* être plus efficace sur les pings ==> Apprendre la roue des signaux
+* maitriser le changement de caméra pour la jgl ou la mid lane(CTR ALT 3 et 4) => Persévérer => utiliser le majeur pour ctrl alt 3/4 : Un peu mis de coté >> perséverer
+* Tab plus souvent => je le fais plus souvent, à continuer
+* arréter de prendre des cookies dans les runes primaires/secondaires sur mes champions (taric, morgana, thresh)
+* essayer logiciel de draft/d'analyse de gameplay : Pro Comp en phase de test :: NUL
+* être plus efficace sur les pings ==> Apprendre la roue des signaux :: plus d'utilisation du ping besoin de vision, ping d'attention a utiliser un peu plus (touche du bas de la souris) > plus rapide à utiliser que la roue des emote  
 
 <img src="https://support-leagueoflegends.riotgames.com/hc/article_attachments/21945887802643" width="200">
 
@@ -15,7 +15,7 @@
     * s'entrainer à ward Q spell
 * Thresh :
     * augmenter la précision pour lancer la lanterne de loin et sauver un allié -> alt Z/prédire la fuite 
-* Lulu :
+* Morgana :
     * 
 
 ## Draft scénario
