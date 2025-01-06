@@ -67,3 +67,21 @@ Note:
   + a trop forcé sur Senna 2 fois alors que la team pas au complet et Yone ou Mord en face
 
 * Team: faire un back direct après Nashor(mais pas dans un bush potentiellement wardé)
+
+### 02/01/2025
+Draft Redside: Poppy, Skarner, Velkoz, Jinx, Taric  vs   GP, Shyv, Akali, Graves, Leona 
+
+* Poppy et Skarner :
+  + jouer les fight la où on a la vision
+  + voir si les carries suivent derrière avant d'engage
+  + envisager de jouer en reception au lieu de chercher l'engage à tout prix
+ 
+* Poppy :
+  + des bons ults
+  + retard en farm vs GP
+  + soit tu call tes ultis avant que skarner fasse le sien soit le faire après mais pas pendant
+ 
+* Jinx :
+  + Leona go-in level 2
+
+### 05/01/2025
