@@ -127,7 +127,8 @@ Progrès :
    + Problèmes de tempo pour les objectifs :
         1. des morts au mauvais moment:
            > en fin de game, faire attention aux fights qui dure longtemps et même si on gagne le fight mais que tu es mort et que le jungler revient à la vie plus tôt on perd le prochain objectif
-           > s'il y a moyen de venger ton teammate pour faire du un pour un et que tu es low life ou mort après, c'est un objectif gratos pour les adversaire >> reste en vie poti scorpion
+           
+           > s'il y a moyen de venger ton teammate pour faire du un pour un et que tu es low life ou mort après, c'est un objectif gratos pour les adversaire >> reste en vie poti scorpion 
         2. On a fait le drake sous le nez de l'ennemi c'est bien mais l'herald est gratos pour eux si tu reviens dans ta jungle et que personne conteste la midlane
     
    + Tunnel-vision dans les teamfight > va trop loin alors que les carries ne peuvent pas suivre et essayer de se battre dans notre vision
