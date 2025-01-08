@@ -143,7 +143,7 @@ Draft Redside: Poppy, Skarner, Velkoz, Jinx, Taric  vs   GP, Shyv, Akali, Graves
      
  * Rémy : c'est cheaté !! (je vais juste dire mon pdv sur des erreurs qui sont commises de manière générale et qui datent aussi vu que ça fait longtemps que j'ai pas review une de tes games)
       + Mental - Pas focus sur le positif
-      + Ne prend pas assez les informations avant de prendre des décisions: c'est quoi le support en face (va-t'il roam au mid ?), est-ce que mon jgler est à côté pour que je puisse jouer plus aggréssif ou est-il loin et donc je dois éviter de all-in mes sorts au risque de me faire gank ? ward ?
+      + Ne prend pas assez les informations avant de prendre des décisions: c'est quoi le support en face (va-t'il roam au mid ?), est-ce que mon jgler est à côté pour que je puisse jouer plus aggréssif ou est-il loin et donc je dois éviter de all-in mes sorts au risque de me faire gank ? ward ? info sur le jungler adverse ?
       + gestion de la mana: mon adversaire joue syndra, je peux toucher mon E pour lui mettre Z et A avec swain : Trop bien mais ça ne vaut pas le coût si tu dois à chaque fois depush et quand ton jungler voudra passer tu ne pourra plus faire ce combo sans mana
       + Pour la toplane, Le champion Jax n'est pas simple à jouer pour performer si tu ne le joues pas souvent. Je pense aussi que tu ne connais pas ses counter et qu'en toplane, ça se paye très cher par rapport au mid.
       + J'espère c'est moins le cas : problème pour décaler sans push la lane et prend trop de temps pour back
