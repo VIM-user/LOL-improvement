@@ -95,20 +95,20 @@ Draft Redside: Poppy, Skarner, Velkoz, Jinx, Taric  vs   GP, Shyv, Akali, Graves
 * Irelia fed en early sur poppy + proxy
 
 ### Bilan de fin de saison 
-Progrès :
-* apprentissage de personnage (Jinx, Yone, WW, Skarner , etc.)
-* des victoires bien méritées
-* pierricko au mental d'acier contre des bons toplaner
+#### Progrès :
+   * apprentissage de personnage (Jinx, Yone, WW, Skarner , etc.)
+   * des victoires bien méritées
+   * pierricko au mental d'acier contre des bons toplaner
 
-* Forces :
-     + Bonnes draft de manière générale où on abuses de champions fort comme Skarner, Vel koz, Jinx voire Tahm Kench
-     + Bonne communication 
-     + On est plutôt bon en teamfight
-     + Bonne laning phase au mid et bot
-     + Skarner 
-* Faiblesses :
-     + Le top (détaillé plus en détail en dessous)
-     + la compo double tank top-jgl mets très bien le top adverse s'il est bon
+#### Forces :
+   * Bonnes draft de manière générale où on abuses de champions fort comme Skarner, Vel koz, Jinx voire Tahm Kench
+   * Bonne communication 
+   * On est plutôt bon en teamfight
+   * Bonne laning phase au mid et bot
+   * Skarner 
+#### Faiblesses :
+   * Le top (détaillé plus en détail en dessous) 
+   * la compo double tank top-jgl mets très bien le top adverse s'il est bon
 
 ## Faiblesses individuelles et piste d'amélioration:
 * Pierricko :
@@ -119,7 +119,7 @@ Progrès :
    
    > Tenir un excel des champions Toplane
    + Gestion de wave et farming
-   > review
+   > review/connaissance de ton champion
    + Tunnel-vision sur l'engage dans les teamfight : va trop loin alors que les carries ne peuvent ou ne veulent pas suivre et essayer de se battre dans notre vision (sinon à quoi sert le support è_é)
 
      
@@ -142,11 +142,12 @@ Progrès :
      + communique des informations pas utile  et se plains pour pas grand chose (sbire loupé, sorts qui ne touchent pas ==> si ça touche, tant mieux, sinon c'est bien tenté: Pour un skillshot qui ne touche pas un ennemie immobilisé, je comprend mais pour un ennemie qui bouge, il n'y a pas de raison de se plaindre)
      
  * Rémy : c'est cheaté !! (je vais juste dire mon pdv sur des erreurs qui sont commises de manière générale et qui datent aussi vu que ça fait longtemps que j'ai pas review une de tes games)
-      + Manque de considération envers les adversaires: s'il vienne et revienne sur ta lane, tu sera toujours surpris ou agacé, alors que tu acapare de l'attention et donc il y a moins de pression ailleurs logiquement
+      + Mental - Pas focus sur le positif
       + Ne prend pas assez les informations avant de prendre des décisions: c'est quoi le support en face (va-t'il roam au mid ?), est-ce que mon jgler est à côté pour que je puisse jouer plus aggréssif ou est-il loin et donc je dois éviter de all-in mes sorts au risque de me faire gank ? ward ?
       + gestion de la mana: mon adversaire joue syndra, je peux toucher mon E pour lui mettre Z et A avec swain : Trop bien mais ça ne vaut pas le coût si tu dois à chaque fois depush et quand ton jungler voudra passer tu ne pourra plus faire ce combo sans mana
       + Pour la toplane, Le champion Jax n'est pas simple à jouer pour performer si tu ne le joues pas souvent. Je pense aussi que tu ne connais pas ses counter et qu'en toplane, ça se paye très cher par rapport au mid.
       + J'espère c'est moins le cas : problème pour décaler sans push la lane et prend trop de temps pour back
+      + Communiquer
 
 
        
