@@ -113,8 +113,8 @@ Progrès :
 ## Faiblesses individuelles et piste d'amélioration:
 * Pierricko :
    + Connaissance des champions et de la méta 
-> Regarder les stats des champions forts au top et refléchir sur comment les contrer ou les atomiser avec tes armes (ex: maokai ou zac top) et s'ils sont simples et que tu les aimes bien, pourquoi pas les essayer ?
-> Regarder des VOD sur des matchup  
+   > Regarder les stats des champions forts au top et refléchir sur comment les contrer ou les atomiser avec tes armes (ex: maokai ou zac top) et s'ils sont simples et que tu les aimes bien, pourquoi pas les essayer ?
+   > Regarder des VOD sur des matchup  
    + Gestion de wave et farming: review
    + Tunnel-vision dans les teamfight :  va trop loin alors que les carries ne peuvent pas suivre et essayer de se battre dans notre vision 
 
