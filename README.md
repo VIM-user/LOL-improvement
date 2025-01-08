@@ -83,5 +83,55 @@ Draft Redside: Poppy, Skarner, Velkoz, Jinx, Taric  vs   GP, Shyv, Akali, Graves
  
 * Jinx :
   + Leona go-in level 2
+ 
+* autres games (pour top):
+  + Ornn pas au niveau méchaniquement: le Z permet de contrer le dash de Urgot
+  + Peut tenter de fuir un dive en faisant une TP > Regarder une compilation des escape de Soaz
+  + éviter d'attaquer ton opposant qui proxy appart si tu es sûr de le tuer (et encore, si 2 wave y passent, tu perds toujours en XP/golds)
+  + 
+
 
 ### 05/01/2025
+* Irelia fed en early sur poppy + proxy
+
+### Bilan de fin de saison 
+Progrès :
+* apprentissage de personnage (Jinx, Yone, WW, Skarner , etc.)
+* des victoires
+* pierricko au mental d'acier
+
+* Forces :
+     + Bonnes draft de manière générale où on abuses de champions fort comme Skarner, Vel koz, Jinx voire Tahm Kench
+     + Bonne communication 
+     + On est plutôt bon en teamfight
+     + Bonne laning phase au mid et bot
+     + Skarner 
+* Faiblesses :
+     + Le top (détaillé plus en détail en dessous)
+     + la compo double tank top-jgl mets très bien le top adverse s'il est bon
+
+## Faiblesses individuelles et piste d'amélioration:
+* Pierricko :
+   + Connaissance des champions et de la méta 
+> Regarder les stats des champions forts au top et refléchir sur comment les contrer ou les atomiser avec tes armes (ex: maokai ou zac top) et s'ils sont simples et que tu les aimes bien, pourquoi pas les essayer ?
+> Regarder des VOD sur des matchup  
+   + Gestion de wave et farming: review
+   + Tunnel-vision dans les teamfight :  va trop loin alors que les carries ne peuvent pas suivre et essayer de se battre dans notre vision 
+
+     
+* Luthorino :
+   + Problèmes de tempo pour les objectifs :
+        1. des morts au mauvais moment:
+           > en fin de game, faire attention aux fights qui dure longtemps et même si on gagne le fight mais que tu es mort et que le jungler revient à la vie plus tôt on perd le prochain objectif
+           > s'il y a moyen de venger ton teammate pour faire du un pour un et que tu es low life ou mort après, c'est un objectif gratos pour les adversaire >> reste en vie poti scorpion
+        2. On a fait le drake sous le nez de l'ennemi c'est bien mais l'herald est gratos pour eux si tu reviens dans ta jungle et que personne conteste la midlane
+    
+   + Tunnel-vision dans les teamfight > va trop loin alors que les carries ne peuvent pas suivre et essayer de se battre dans notre vision
+ 
+* Fredo : je sais pas quoi dire, bonnes décales au bot, 
+* Drazuto : peut se faire surprendre en early
+* Kevino (de la mama): Ma janna et ma morgana(vs thresh) ne sont pas incroyables niveau impact (difficile à dire vu que ces pick sont plus sur le late game) > Drazuto, un avis ?
+
+     
+ 
+       
