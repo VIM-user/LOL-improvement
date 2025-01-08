@@ -117,33 +117,33 @@ Progrès :
    
    > Regarder des VOD sur des matchup
    
-   > Tenir un excel des champion Toplane
+   > Tenir un excel des champions Toplane
    + Gestion de wave et farming
    > review
-   + Tunnel-vision dans les teamfight :  va trop loin alors que les carries ne peuvent ou ne veulent pas suivre et essayer de se battre dans notre vision 
+   + Tunnel-vision sur l'engage dans les teamfight : va trop loin alors que les carries ne peuvent ou ne veulent pas suivre et essayer de se battre dans notre vision (sinon à quoi sert le support è_é)
 
      
 * Luthorino :
    + Problèmes de tempo pour les objectifs :
         1. des morts au mauvais moment:
-           > en fin de game, faire attention aux fights qui dure longtemps et même si on gagne le fight mais que tu es mort et que le jungler revient à la vie plus tôt on perd le prochain objectif
+           > en fin de game, faire attention aux fights qui durent longtemps et même si on gagne le fight mais que tu es mort et que le jungler revient à la vie plus tôt on perd le prochain objectif 
            
            > s'il y a moyen de venger ton teammate pour faire du un pour un et que tu es low life ou mort après, c'est un objectif gratos pour les adversaire >> reste en vie poti scorpion 
         2. On a fait le drake sous le nez de l'ennemi c'est bien mais l'herald est gratos pour eux si tu reviens dans ta jungle et que personne conteste la midlane
     
-   + Tunnel-vision dans les teamfight > va trop loin alors que les carries ne peuvent pas suivre et essayer de se battre dans notre vision
+   + Tunnel vision sur l'engage dans les teamfight > va trop loin alors que les carries ne peuvent ou ne veulent pas suivre et essayer de se battre dans notre vision/éviter de se battre sans vision (si tu va trop loin dans leur jungle par exemple)
  
 * Fredo : je sais pas quoi dire, bonnes décales au bot  
 * Drazuto : peut se faire surprendre en early (exemple: trade de draven, niveau 2 de Leona, dégats de graves)
-* Kevino (de la mama): Ma janna et ma morgana(vs thresh) ne sont pas incroyables niveau impact (difficile à dire vu que ces pick sont plus sur le late game) > Drazuto, un avis ?
+* Kevino (de la mama): Ma janna et ma morgana(vs thresh) ne sont pas incroyables niveau impact (difficile à dire vu que ces pick sont plus utile sur le late game) > Drazuto, un avis ?
 
 * Flo :
      + Une bonne game de Briar + Lulu support Ok
      + communique des informations pas utile  et se plains pour pas grand chose (sbire loupé, sorts qui ne touchent pas ==> si ça touche, tant mieux, sinon c'est bien tenté: Pour un skillshot qui ne touche pas un ennemie immobilisé, je comprend mais pour un ennemie qui bouge, il n'y a pas de raison de se plaindre)
      
  * Rémy : c'est cheaté !! (je vais juste dire mon pdv sur des erreurs qui sont commises de manière générale et qui datent aussi vu que ça fait longtemps que j'ai pas review une de tes games)
-      + Manque de considération envers les adversaires: s'il vienne et revienne sur ta lane, tu sera toujours surpris ou agacé, alors que tu acapare de l'attention et donc il y a moins de pression ailleurs
-      + Ne prend pas assez les informations avant de prendre des décisions: c'est quoi le support en face (va-t'il roam au mid ?), est-ce que mon jgler est à côté pour que je puisse jouer plus aggréssif ou est-il loin et donc je dois éviter de all-in mes sorts au risque de me faire gank ? 
+      + Manque de considération envers les adversaires: s'il vienne et revienne sur ta lane, tu sera toujours surpris ou agacé, alors que tu acapare de l'attention et donc il y a moins de pression ailleurs logiquement
+      + Ne prend pas assez les informations avant de prendre des décisions: c'est quoi le support en face (va-t'il roam au mid ?), est-ce que mon jgler est à côté pour que je puisse jouer plus aggréssif ou est-il loin et donc je dois éviter de all-in mes sorts au risque de me faire gank ? ward ?
       + gestion de la mana: mon adversaire joue syndra, je peux toucher mon E pour lui mettre Z et A avec swain : Trop bien mais ça ne vaut pas le coût si tu dois à chaque fois depush et quand ton jungler voudra passer tu ne pourra plus faire ce combo sans mana
       + Pour la toplane, Le champion Jax n'est pas simple à jouer pour performer si tu ne le joues pas souvent. Je pense aussi que tu ne connais pas ses counter et qu'en toplane, ça se paye très cher par rapport au mid.
       + J'espère c'est moins le cas : problème pour décaler sans push la lane et prend trop de temps pour back
