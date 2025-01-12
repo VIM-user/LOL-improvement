@@ -135,7 +135,9 @@ Draft Redside: Poppy, Skarner, Velkoz, Jinx, Taric  vs   GP, Shyv, Akali, Graves
  
 * Fredo : je sais pas quoi dire, bonnes décales au bot  
 * Drazuto : peut se faire surprendre en early (exemple: trade de draven, niveau 2 de Leona, dégats de graves)
-* Kevino (de la mama): Ma janna et ma morgana(vs thresh) ne sont pas incroyables niveau impact (difficile à dire vu que ces pick sont plus utile sur le late game) > Drazuto, un avis ?
+* Kevino (de la mama):
+     + Ma janna et ma morgana(vs thresh) ne sont pas incroyables niveau impact (difficile à dire vu que ces pick sont plus utile sur le late game) > Drazuto, un avis ?
+     + décaler à l'Herald quand il y a besoin 
 
 * Flo :
      + Une bonne game de Briar + Lulu support Ok
