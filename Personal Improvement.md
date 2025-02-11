@@ -15,8 +15,12 @@
     * s'entrainer à ward Q spell
 * Thresh :
     * augmenter la précision pour lancer la lanterne de loin et sauver un allié -> alt Z/prédire la fuite 
-* Morgana :
-    * 
+* Ambessa :
+    * s'améliorer sur la précision du 2ème Q-spell
+    * des erreurs early le 2ème Q-spell je vais en avant 
+    * faire un meilleur dash avec le E pour proc plus de dommages
+    * pour les ultimes dans la river, vérifier si la perspective est prise en compte
+    * essayer les Q flash pour voir si le changement de direction surprend l'ennemi
 
 ## Draft scénario
 
