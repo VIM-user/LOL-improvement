@@ -21,6 +21,10 @@
     * faire un meilleur dash avec le E pour proc plus de dommages
     * pour les ultimes dans la river, vérifier si la perspective est prise en compte
     * essayer les Q flash pour voir si le changement de direction surprend l'ennemi
+ 
+* Aurora :
+    * penser a désactiver l'ult après la première TP pour éviter d'être encore TP de l'autre côté
+    * j'aime bien poigne contre les matchup melee > essayer électrocute 
 
 ## Draft scénario
 
